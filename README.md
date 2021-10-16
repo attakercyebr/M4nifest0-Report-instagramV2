@@ -20,7 +20,8 @@
 ----------------------
 - 🔞 V1.0..0  
 -  https://t.me/M4nifest0/332
-
+- 🔞 V2.0..0  
+- https://m4nifest0.group/product/report-instagram-v2/
 # How to ger:
 ----------------------
 - 📌 Visit our channel or our site to download .
