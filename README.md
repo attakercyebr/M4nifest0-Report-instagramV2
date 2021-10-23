@@ -3,6 +3,20 @@
 
 ##### Program Features
 ----------------------
+-📌V3
+
+-📌 Upgraded to version 3.
+
+-📌 Speed limits removed.
+
+-📌 Some bugs were fixed.
+
+-📌 Debugging.
+
+-📌Fixed an internal error.
+
+----------------------
+-📌V2
 
 -📌 Delete target post on Instagram.
 
@@ -22,6 +36,9 @@
 -  https://t.me/M4nifest0/332
 - 🔞 V2.0..0  
 - https://m4nifest0.group/product/report-instagram-v2/
+- 
+- 🔞 V3.0..0  
+
 # How to ger:
 ----------------------
 - 📌 Visit our channel or our site to download .
